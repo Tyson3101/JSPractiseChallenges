@@ -5,11 +5,11 @@ Sucess: True
 Challenge: Reverse each word in this string, 'Welcome to this Javascript Guide!'
 Goal: 'emocleW ot siht tpircsavaJ !ediuG'
 
-Code: 
+Code:
 */
 const stringReversed = 'Welcome to this Javascript Guide!';
 const goal = 'emocleW ot siht tpircsavaJ !ediuG';
- 
+
 let stirngArray = stringReversed.split(' ');
 
 let stringWordArray1 = []

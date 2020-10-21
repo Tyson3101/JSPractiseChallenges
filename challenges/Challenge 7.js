@@ -1,5 +1,5 @@
 /*
-6.
+7.
 Date: 21/10/20
 Sucess: True
 Challenge: Find the missing number in this array of numbers going up by 3, [2, 5, 8, 11, 14, 20, 23]

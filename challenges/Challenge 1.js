@@ -1,5 +1,5 @@
 /*
-1. 
+1.
 Date: 19/09/2020
 Sucess:  True
 Challenge: Remove duplicates from this array, [1, 4, 2, 1, 5, 2, 6, 4]
