@@ -4,6 +4,7 @@ Date: 19/09/2020
 Sucess:  True
 Challenge: Remove duplicates from this array, [1, 4, 2, 1, 5, 2, 6, 4]
 Goal: [1, 4, 2, 5, 6]
+Link: https://code.sololearn.com/cSti0TE37uXD/#node
 
 Code:
 */

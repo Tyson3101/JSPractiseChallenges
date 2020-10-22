@@ -4,6 +4,7 @@ Date: 19/09/2020
 Sucess: True
 Challenge: Reverse each word in this string, 'Welcome to this Javascript Guide!'
 Goal: 'emocleW ot siht tpircsavaJ !ediuG'
+Link: https://code.sololearn.com/cjH1JEfWz95F/#node
 
 Code:
 */

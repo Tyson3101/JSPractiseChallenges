@@ -4,6 +4,7 @@ Date: 21/10/20
 Sucess: True
 Challenge: Find the missing number in this array of numbers going up by 3, [2, 5, 8, 11, 14, 20, 23]
 Goal: 17
+Link: https://code.sololearn.com/cKO4m4xWiU23/#node
 
 Code:
 */
